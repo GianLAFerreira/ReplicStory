@@ -26,8 +26,8 @@ Replic story foi feito em um curso da [alura](https://cursos.alura.com.br/course
 - Posicionar elementos com mais facilidade.
 - Utilize grid para calcular e alinhar elementos.
 - Criar templates com mais eficiência e simplicidade.
-- Digzer para os elementos onde eles devem se posicionar.
-- Digzer para os elementos onde eles devem começar e terminar.
+- Controlar os elementos onde eles devem se posicionar.
+- Controlar os elementos onde eles devem começar e terminar.
 
 ## :memo: Licença
 
