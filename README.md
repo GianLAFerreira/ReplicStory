@@ -2,11 +2,11 @@
 
 
 
-   <img alt="Imagem do inicio do site" title="Imagem do inicio do site" src="https://raw.githubusercontent.com/GianLAFerreira/StoryGame/main/assets/img-git/inicio1.png" width="960" /> 
+   <img alt="Imagem do inicio do site" title="Imagem do inicio do site" src="https://raw.githubusercontent.com/GianLAFerreira/ReplicStory/main/assets/img-git/inicio1.png" width="960" /> 
     <br> <br> <br>
-   <img alt="Imagem do inicio do site" title="Imagem do inicio do site" src="https://raw.githubusercontent.com/GianLAFerreira/StoryGame/main/assets/img-git/inicio2.png" width="960">
+   <img alt="Imagem do inicio do site" title="Imagem do inicio do site" src="https://raw.githubusercontent.com/GianLAFerreira/ReplicStory/main/assets/img-git/inicio2.png" width="960">
     <br> <br> <br>
-   <img alt="Imagem do inicio do site" title="Imagem do inicio do site" src="https://raw.githubusercontent.com/GianLAFerreira/StoryGame/main/assets/img-git/inicio3.png" width="960">
+   <img alt="Imagem do inicio do site" title="Imagem do inicio do site" src="https://raw.githubusercontent.com/GianLAFerreira/ReplicStory/main/assets/img-git/inicio3.png" width="960">
 
 
 
